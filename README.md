@@ -20,12 +20,12 @@
 72 101 108 108 111  87 111 114 108 100 33
 </pre>
 
-$$\large\text{My name is Thom, and I am a Computer Science graduate from the University of Exeter.}$$
+$$\large\text{My name is Thom, and I'm a Computer Science graduate from the University of Exeter.}$$
 
 <!---
 $\displaystyle \triangleright \ \text{Currently Working On: }$ 
 -->
-$\displaystyle \triangleright \ \text{Currently Learning About: Linux Driver Development \\& Debian packaging}$<br>
+$\displaystyle \triangleright \ \text{Currently Learning About: Linux driver development \\& Debian packaging}$<br>
 $\displaystyle \triangleright \ \text{Massive fan of all things Linux}$
 
 <br>
