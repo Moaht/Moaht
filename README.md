@@ -20,7 +20,7 @@
 72 101 108 108 111  87 111 114 108 100 33
 </pre>
 
-$$\large\text{My name is Thom, and I am Computer Science graduate from the University of Exeter.}$$
+$$\large\text{My name is Thom, and I am a Computer Science graduate from the University of Exeter.}$$
 
 <!---
 $\displaystyle \triangleright \ \text{Currently Working On: }$ 
