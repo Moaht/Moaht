@@ -28,6 +28,8 @@ $\displaystyle \triangleright \ \text{Currently Working On: }$
 $\displaystyle \triangleright \ \text{Currently Learning About: Linux Driver Development \\& Debian packaging}$<br>
 $\displaystyle \triangleright \ \text{Massive fan of all things Linux}$
 
+<br>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/thom-allan/" target="_blank"><img src="https://img.shields.io/badge/-Thom%20Allan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:thom.allan03@googlemail.com"><img src="https://img.shields.io/badge/-thom.allan03@googlemail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
