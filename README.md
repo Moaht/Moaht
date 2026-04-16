@@ -1,44 +1,48 @@
 <picture>
   <source
-    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-dark.svg"
-    media="(prefers-color-scheme: dark), (width: >=500px)"
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-dark.svg and (width: >= 600px)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-light.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (width: >=500px)"
+    media="(prefers-color-scheme: light) and (prefers-color-scheme: no-preference) and (width: >= 600px)"
   />
-  <img src="https://github.com/Moaht/Moaht/blob/main/images/hello-light.svg" />
-</picture>
-
-<br>
+  <source
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github.com/Moaht/Moaht/blob/main/images/hello-light.png" />
+</picture> <br><br>
 
 <picture>
   <source
     srcset="https://github.com/Moaht/Moaht/blob/main/images/intro-dark.svg"
-    media="(prefers-color-scheme: dark), (width: >=500px)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github.com/Moaht/Moaht/blob/main/images/intro-light.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (width: >=500px)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github.com/Moaht/Moaht/blob/main/images/intro-light.svg" />
-</picture>
+</picture> <br><br>
 
-<br>
 
 <picture>
   <source
     srcset="https://github.com/Moaht/Moaht/blob/main/images/list-dark.svg"
-    media="(prefers-color-scheme: dark), (width: >=500px)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github.com/Moaht/Moaht/blob/main/images/list-light.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (width: >=500px)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github.com/Moaht/Moaht/blob/main/images/list-light.svg" />
-</picture>
+</picture> <br><br>
 
-<br><br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/thom-allan/" target="_blank"><img src="https://img.shields.io/badge/-Thom%20Allan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>

@@ -1,76 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="490.76941mm"
-   height="11.684694mm"
-   viewBox="0 0 490.76941 11.684694"
-   version="1.1"
-   id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="intro-dark.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.70822811"
-     inkscape:cx="456.06775"
-     inkscape:cy="266.15718"
-     inkscape:window-width="1920"
-     inkscape:window-height="997"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs1">
-    <rect
-       x="59.302925"
-       y="307.81042"
-       width="826.00507"
-       height="259.80331"
-       id="rect1" />
-  </defs>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-30.333278,-77.977481)">
-    <text
-       xml:space="preserve"
-       transform="scale(0.26458333)"
-       id="text1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.1;font-family:'computer modern';-inkscape-font-specification:'computer modern';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#1f1f1f" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.1;font-family:'computer modern';-inkscape-font-specification:'computer modern';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1f1f1f;stroke-width:0.264583"
-       x="29.886793"
-       y="87.04528"
-       id="text2"><tspan
-         sodipodi:role="line"
-         id="tspan2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:cmr10;-inkscape-font-specification:cmr10;fill:#ffffff;stroke-width:0.264583"
-         x="29.886793"
-         y="87.04528">My name is Thom, and I’m a Computer Science graduate from the University of Exeter.</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:cmr10;-inkscape-font-specification:cmr10;fill:#ffffff;stroke-width:0.264583"
-         x="29.886793"
-         y="101.15533"
-         id="tspan3" /><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:cmr10;-inkscape-font-specification:cmr10;fill:#ffffff;stroke-width:0.264583"
-         x="29.886793"
-         y="115.26537"
-         id="tspan4" /></text>
-  </g>
+<svg width="490.77mm" height="11.685mm" version="1.1" viewBox="0 0 490.77 11.685" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-30.333 -77.977)">
+  <text transform="scale(.26458)" fill="#1f1f1f" font-family="'computer modern'" font-size="18.667px" style="line-height:1.1;shape-inside:url(#rect1);white-space:pre" xml:space="preserve"/>
+  <text x="29.886793" y="87.04528" fill="#ffffff" font-family="cmr10" font-size="12.7px" stroke-width=".26458" style="line-height:1.1" xml:space="preserve"><tspan x="29.886793" y="87.04528">My name is Thom, and I’m a Computer Science graduate from the University of Exeter.</tspan><tspan x="29.886793" y="101.15533"/><tspan x="29.886793" y="115.26537"/></text>
+ </g>
 </svg>
