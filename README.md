@@ -1,22 +1,39 @@
 <picture>
   <source
-    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-dark.png"
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-dark.svg"
     media="(prefers-color-scheme: dark), (width: >=500px)"
   />
   <source
-    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-light.png"
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-light.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (width: >=500px)"
   />
-  <img src="https://github.com/Moaht/Moaht/blob/main/images/hello-light.png" />
+  <img src="https://github.com/Moaht/Moaht/blob/main/images/hello-light.svg" />
 </picture>
 
-$$\large\text{My name is Thom, and I'm a Computer Science graduate from the University of Exeter.}$$
+<picture>
+  <source
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/intro-dark.svg"
+    media="(prefers-color-scheme: dark), (width: >=500px)"
+  />
+  <source
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/intro-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (width: >=500px)"
+  />
+  <img src="https://github.com/Moaht/Moaht/blob/main/images/intro-light.svg" />
+</picture>
 
-<!---
-$\displaystyle \triangleright \ \text{Currently Working On: }$ 
--->
-$\displaystyle \triangleright \ \text{Currently Learning About: Linux driver development \\& Debian packaging}$<br>
-$\displaystyle \triangleright \ \text{Massive fan of all things Linux}$
+
+<picture>
+  <source
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/list-dark.svg"
+    media="(prefers-color-scheme: dark), (width: >=500px)"
+  />
+  <source
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/list-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (width: >=500px)"
+  />
+  <img src="https://github.com/Moaht/Moaht/blob/main/images/list-light.svg" />
+</picture>
 
 <br>
 
