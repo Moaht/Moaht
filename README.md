@@ -10,6 +10,8 @@
   <img src="https://github.com/Moaht/Moaht/blob/main/images/hello-light.svg" />
 </picture>
 
+<br>
+
 <picture>
   <source
     srcset="https://github.com/Moaht/Moaht/blob/main/images/intro-dark.svg"
@@ -22,6 +24,7 @@
   <img src="https://github.com/Moaht/Moaht/blob/main/images/intro-light.svg" />
 </picture>
 
+<br>
 
 <picture>
   <source
@@ -35,7 +38,7 @@
   <img src="https://github.com/Moaht/Moaht/blob/main/images/list-light.svg" />
 </picture>
 
-<br>
+<br><br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/thom-allan/" target="_blank"><img src="https://img.shields.io/badge/-Thom%20Allan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
