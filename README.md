@@ -1,24 +1,14 @@
-<pre media="(width: >= 600px)">
-       █████   █████          ████  ████                       48  
-      ░░███   ░░███          ░░███ ░░███                       65  
-       ░███    ░███   ██████  ░███  ░███   ██████              6C  
-       ░███████████  ███░░███ ░███  ░███  ███░░███             6C  
-       ░███░░░░░███ ░███████  ░███  ░███ ░███ ░███             6F
-       ░███    ░███ ░███░░░   ░███  ░███ ░███ ░███                
-       █████   █████░░██████  █████ █████░░██████              57  
-      ░░░░░   ░░░░░  ░░░░░░  ░░░░░ ░░░░░  ░░░░░░               6F  
-                                                               72 
- █████   ███   █████                    ████      █████ ███    6C
-░░███   ░███  ░░███                    ░░███     ░░███ ░███    64
- ░███   ░███   ░███   ██████  ████████  ░███   ███████ ░███    21
- ░███   ░███   ░███  ███░░███░░███░░███ ░███  ███░░███ ░███
- ░░███  █████  ███  ░███ ░███ ░███ ░░░  ░███ ░███ ░███ ░███
-  ░░░█████░█████░   ░███ ░███ ░███      ░███ ░███ ░███ ░░░ 
-    ░░███ ░░███     ░░██████  █████     █████░░████████ ███
-     ░░░   ░░░       ░░░░░░  ░░░░░     ░░░░░  ░░░░░░░░ ░░░ 
-                                                           
-72 101 108 108 111  87 111 114 108 100 33
-</pre>
+<picture>
+  <source
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-dark.png"
+    media="(prefers-color-scheme: dark), (width: >=500px)"
+  />
+  <source
+    srcset="https://github.com/Moaht/Moaht/blob/main/images/hello-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference), (width: >=500px)"
+  />
+  <img src="https://github.com/Moaht/Moaht/blob/main/images/hello-light.png" />
+</picture>
 
 $$\large\text{My name is Thom, and I'm a Computer Science graduate from the University of Exeter.}$$
 
