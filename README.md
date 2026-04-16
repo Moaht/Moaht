@@ -1,4 +1,4 @@
-<pre style="background-color: lightblue; color: white; font-family: 'Courier New', Courier, monospace; line-height: 1; letter-spacing: 0; margin: 0; overflow-x: auto;">
+<pre media="(width: >= 600px)">
        █████   █████          ████  ████                       48  
       ░░███   ░░███          ░░███ ░░███                       65  
        ░███    ░███   ██████  ░███  ░███   ██████              6C  
