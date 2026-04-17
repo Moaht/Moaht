@@ -60,6 +60,12 @@
 <picture>
   <img src="https://skillicons.dev/icons?i=vim" alt="Vimscript" title="Vimscript"/>
 </picture>
+<picture>
+  <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" title="LaTeX"/>
+</picture>
+<picture>
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart"/>
+</picture>
 <br>
 
 <picture>
