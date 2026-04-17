@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 250 50" width="250" height="50"
+     xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @font-face {
+            font-family: 'ComputerModern';
+            src: url(data:font/woff2;charset=utf-8;base64,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) format('woff2');
+        }
+        p {
+            margin: 0em;
+            font-family: 'ComputerModern', sans-serif;
+            color: black;
+            font-size: 26px;
+            padding: 0em;
+            padding-top: 0.5em;
+            font-weight: 400;
+        }
+        @media (prefers-color-scheme: dark) {
+          p {
+            color: white;
+          }
+        }
+      </style>
+      <div>
+        <p>DevOps &amp; Cloud</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+

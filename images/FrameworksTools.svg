@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 250 50" width="250" height="50"
+     xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @font-face {
+            font-family: 'ComputerModern';
+            src: url(data:font/woff2;charset=utf-8;base64,d09GMgABAAAAAAgMAA8AAAAADvQAAAe0AACzMwAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgVgcNh+CAAZgAHwRCAqQBIxUATYCJAM4Cx4ABCAFg3IHIBsfDFGUUVIcxVcHtjHzoe+EorEROpSlYmwyHlnnn/Sfh2dMuZpBtK3ZO/IeDIxCD6OaMKrA7o/skoenQ33/soYlmrQVHJsi0LXBqqUtuBbY8lKom+gejSVUqCcvphNTZBLbQlv+1wI8XGb471xSVMjutM6BBQtJ51rJJUAF4NV+v3r7vzdLPyJaEpFQCIlMf2LLYrZoFrVQ8FIJScST2HTrhGYlEEqGEhK2yhkVIgxh9iRibZ99EyAAEQAAKAQhRhAAI0gMzkJUQgZM17pb6mCz1VJeC5t9dVsDbHAA6EG1fADIXnlLAwQgyQBRDAUtGeOd+ZzE0OiYYFWOREZaB26lEEPMKrl5XbwJCIGBXiACcToPGSZG0vLT6LxWiiGVkDtFXiYY/XJJ9uJjkG7b+yG+SxFSuquJ38uQB6BuABAMGiymn4wm6YhScDpAFkFeFiozYoMGq0ZkTCbMCz2k4/03pJBPBpCYnxDbSYE+2p6TcshXXKCO0h7AWLY6+YVnUACFVwAlJk6VshlZhoGQ6SzIegKcpFf4DYbIfVp+FBkGQAFogD4aYX6OqhJDOh/1o2XsRMmgVq5eo1aduQcVam0t31X+d9c+2+bNGDdmRIigeCT3SEgrBKnQbUW9A/R4nM5hhEMisSKKucgfOK8l8nJVii2FKoM0nW2DV3Knp9M4juOrnJH8jEVHYNGQ1GLhlCPSTiA4YLl1/0fDk/+zdC2na/X6/6djyvYv/HHpeLzChV9atu/K+C9q4TQKxIthhnopR6ykFKgOmvvr8uyS6jgoqJf5GNaX6mi0SnUO4wLXu0PiX4/ypi2mFfOFiuUJG4dyvgnvLctwwZPH/Ob1xEAPhtdxpOGgih0lrgWkxzNO7xdNBNg1PmpDvcM74ClWIW3fzROfrDruL7CcbiH8y7CT/7HoBhyUGtL0RuVyrByzRZyUDdiy11PUi/jonEHy6XqAL/m1MvXuauu+u397HygcDdKLrTVFAkdYIwul0dSly4p4HOyIKtr0gcRRPoArPGnxuMQyXWmOgJEuGMx/4gO6WWg+OwcYW/1iIhXLN51E6iFJ2XttYZ7dGp9pWN866zGaeabm2WjDUsCxfqAqbd2veqpGV/O7QBm1YlOUdIEdYB0xW+6FdNmi1zN+2I9IrsXHZE5U3XIgbij8v2zbMts0tHjRRDmmfKKhYyWFX3hgcXdfsDjkN9Nib4j6byhjYrfzYnA4cAroinlM3eX/XsO82XbTHQd41q6JnN21/5xDlaZI6cK1UeikRxnK1Q2jPzg1No6r8pYnJ44iJJbPzjqsw2rSnTRsNPz/5mRMehaX/dDHuJ+xCUn9oe+Yg6xBZlwRCgb+aWkJ+fsd0hA11emd4Kq0jB7+5VFZe6p5dmUz5DN77kmc5Wth2TNWTAwwEFns+OltzNqaPTQR1T8bV9PlUGCv9y8rwXp5kInQJDaiIizru/kOU4UlqxzSDus3ycNSyUMTYXPq8Hiu3NRtkUigLd0RHOvATp46dTDrkLM5Rl9bOiwtZZFzhfgOkycxgeNiYoZrq+ZsG48QQijbzAt5Rko/b8kzf6tXzXybJkN+yIc2j1SUj2nze500Nx/OWIkCTAJiN21hPFVFFuMeRxpm3jydYOd9I9bIx+Gyb9ksrmP2Sph9VkWrViQ2uxQn+Eua5SIjlH/8k3MiZzwdldC0SWi4zSciE0Wz0cHK9D7vihecd/J2M4e0FzxzpJnA/uUPd3YC83Bst4rSL/Wg2MlRTpvZL5fW++oSyhdE/2cLm4kSdrGLSRrFWnJ0UhqzDx7K+V5p9e2oJ7vZSwRLd1SjRjRQWpDZRVcfy1R7VGrQGjrF5qpvnWZxT9fb0h4H+FtebNhySr+CsljkVemoZmHo0F7hO12NfPlHwmxYERP5L1OtSAhU5VYlKJ+llSiig+RpxSg5cJRHE1VlTkBBLoqP1kVSYc1V0X0hPdQvN5ppME2/+lXi7lUntubLuexoewGT78FXsaluwbPZ7S89DdjBWRLFRYgOu2oZzTjRlElrjL6NQZ5biDZiNiWZOhumDZ+CqL/WwKa8Fdl3eDPb5QapHjRjSAivLF7ns6Tol7FQ91dY/dCyaPHLDNVoOjPSSuMjx6lzUbre3Jl0z1krJ/0cip0o5AcWMZmf2CgLV/aysyRz4ZlxQzSGeT2JfPsdJXx2sI0DxR6pbYteNFBcTEi5WZlpitqDFqcQqp96ts1lAAAIAFu86cD0gcXaId8ETL8EgOPFi1vZrsvi/0z63497gxMFQICy7URf5ConuT2IUM8Bgq5PK/3ERCJA1+CUxrJMl2ETXznFXtKkDWkYwLKggExhaYzoaTRYLEF8tHIcAts2tZFWkAM4/2iN89BIURiKi7oQRUhcjKIwHkfRsryN4rAIZRSXNEqAt1FfqDRq0KFci7Zp3DIyGt2s0NAGW5RzFreQU6g1btQhcIWWDOoxA4QcqvBY0qbVgtIRLM87V6rTrUmVLmUlai0Zl2rMqHrjQT5RaUPtGKertR7knWQesK6ZS631yJhoxW5UjDI9hJVrUZ2a5l09fFqUN5VJIVVuFObFjcd8QWQeJshyHWzsyZerwEnQi8cobClLw9acGj3VenDjv7FqPzBL6JpLo+R6zgsAAAA=) format('woff2');
+        }
+        p {
+            margin: 0em;
+            font-family: 'ComputerModern', sans-serif;
+            color: black;
+            font-size: 26px;
+            padding: 0em;
+            padding-top: 0.5em;
+            font-weight: 400;
+        }
+        @media (prefers-color-scheme: dark) {
+          p {
+            color: white;
+          }
+        }
+      </style>
+      <div>
+        <p>Frameworks &amp; Tools</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
